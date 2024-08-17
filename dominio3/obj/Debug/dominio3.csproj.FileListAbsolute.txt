@@ -1,0 +1,6 @@
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\bin\Debug\dominio3.dll
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\bin\Debug\dominio3.pdb
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\obj\Debug\dominio3.csproj.AssemblyReference.cache
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\obj\Debug\dominio3.csproj.CoreCompileInputs.cache
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\obj\Debug\dominio3.dll
+C:\Users\Outlet VL\source\repos\Eventos\dominio3\obj\Debug\dominio3.pdb
